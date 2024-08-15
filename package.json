@@ -1,0 +1,25 @@
+{
+	"name": "swagdefgen",
+	"version": "1.0.0",
+	"description": "Convert JSON to swagger spec",
+	"type": "module",
+	"bin": {
+		"swagdefgen": "./main.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/MuhamedMagdi/SwagDefGen.git"
+	},
+	"keywords": [
+		"swagger"
+	],
+	"author": "MuhamedMagdi",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/MuhamedMagdi/SwagDefGen/issues"
+	},
+	"homepage": "https://github.com/MuhamedMagdi/SwagDefGen#readme",
+	"dependencies": {
+		"commander": "^12.1.0"
+	}
+}
